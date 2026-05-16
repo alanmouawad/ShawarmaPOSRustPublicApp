@@ -1,5 +1,3 @@
----
-
 ## Important Notes
 
 *   Database: The `shawarma_pos.db` file is automatically created upon the first launch.
