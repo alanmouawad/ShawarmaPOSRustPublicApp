@@ -2,9 +2,9 @@
 
 ## Important Notes
 
-*   **Database:** The `shawarma_pos.db` file is automatically created upon the first launch.
-*   **Environment:** Ensure that the `.db` file is ignored by Git to protect business data (already configured in `.gitignore`).
-*   **Auto-Reload:** If the app reloads during database writes, ensure the `.db` file is located outside the `src-tauri` watch path.
+*   Database: The `shawarma_pos.db` file is automatically created upon the first launch.
+*   Environment: Ensure that the `.db` file is ignored by Git to protect business data (already configured in `.gitignore`).
+*   Auto-Reload: If the app reloads during database writes, ensure the `.db` file is located outside the `src-tauri` watch path.
 
 ---
 
