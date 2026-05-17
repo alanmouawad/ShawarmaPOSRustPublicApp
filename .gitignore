@@ -1,0 +1,14 @@
+# Rust
+/src-tauri/target
+/src-tauri/shawarma_pos.db
+/src-tauri/*.db-journal
+/src-tauri/*.db-wal
+
+# Node
+node_modules
+dist
+.DS_Store
+
+# IDEs
+.vscode
+.idea
