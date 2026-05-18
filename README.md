@@ -39,28 +39,6 @@ Contributions are welcome! If you have ideas for new features or find any bugs, 
 2.  Install [Node.js](https://nodejs.org/).
 3.  Install a package manager (npm, yarn, or pnpm).
 
-### Installation Steps
-1.  **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-    cd YOUR_REPO_NAME
-    ```
-
-2.  **Install Dependencies:**
-    ```bash
-    pnpm install  # or npm install
-    ```
-
-3.  **Run in Development Mode:**
-    ```bash
-    pnpm tauri dev
-    ```
-
-4.  **Build Production Executable:**
-    ```bash
-    pnpm tauri build
-    ```
-
 ---
 
 ## Project Structure
